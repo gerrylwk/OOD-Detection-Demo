@@ -1,0 +1,3 @@
+model_name: ../checkpoints/pid_nolifts_retrain_nocrop_fold_
+model:  models/pid_nolifts_retrain_nocrop_fold_
+threshold:  -9.6
